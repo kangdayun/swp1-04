@@ -1,2 +1,2 @@
 # 2018XXX	Dayun Kang
-# Kookmin Univ. SW
+# Kookmin Univ. Computer Science 
