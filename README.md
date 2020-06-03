@@ -1,2 +1,2 @@
-# 20185280	Dayun Kang
+# 2018XXX	Dayun Kang
 # Kookmin Univ. SW
